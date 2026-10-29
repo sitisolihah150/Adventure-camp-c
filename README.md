@@ -71,11 +71,11 @@ Program ini menerapkan konsep dasar algoritma dan pemrograman terstruktur, melip
 
 ### Screenshot Hasil Eksekusi Program
 
-![ss tampilan 1.png](sstampilan1.png)
+![sstampilan1.png](sstampilan1.png)
 
-![ss tampilan 2.png](sstampilan2.png)
+![sstampilan2.png](sstampilan2.png)
 
-![ss tampilan 3.png](sstampilan3.png)
+![sstampilan3.png](sstampilan3.png)
 
-![ss tampilan 4.png](sstampilan4.png)
+![sstampilan4.png](sstampilan4.png)
 
